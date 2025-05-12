@@ -9,7 +9,7 @@
 
 <b>Цель проекта: </b> составление чек-листа на основе собственных требований
 
-> [__Ссылка на проект__](https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0)
+> [__Ссылка на проект__](https://drive.google.com/file/d/1lT8CJBqHCxUupHlRvAFwHIVCtG3PSG__/view?usp=sharing)
 
 <b>Выводы по проделанной работе: </b>
  - получил практику по работе с чек-листами
