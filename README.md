@@ -36,7 +36,7 @@ P.S. Тестовое задание взято из открытого исто
 
 > [__Ссылка на тестовое задание__](https://docs.google.com/document/d/1ylGFf4_p4w9S8PvRsZF0UdyeokWol3KS/edit?tab=t.0)
 
-> [__Ссылка на проект__](https://docs.google.com/document/d/1PYLSGJ2mRzm6ueO-x3IkafWYamDJsSQt-sYgC4tEiGM/edit?usp=drive_link)
+> [__Ссылка на проект__](https://drive.google.com/file/d/1X7UsWOKoR80VPonCHGKsWaXz0uNLvLi_/view?usp=sharing)
 
 <b>Выводы по проделанной работе: </b>
 - Закрепил знания SQL запросов
