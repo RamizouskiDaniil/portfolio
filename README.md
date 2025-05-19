@@ -50,7 +50,7 @@ P.S. Тестовое задание взято из открытого исто
 <b>Цель проекта: </b> совершенствование знаний API, использование Postman
 
 > [__Ссылка на тестовое задание__](https://imgur.com/a/gGnRVda)
-> 
+
 > [__Ссылка на проект__](https://drive.google.com/file/d/1wQvJxF4CXRELKEe3eJHZ0mnhk-orrkXr/view?usp=sharing)
 
 <b>Выводы по проделанной работе: </b>
